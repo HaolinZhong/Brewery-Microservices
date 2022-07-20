@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/brewery-bom/brewery-bom.iml" filepath="$PROJECT_DIR$/brewery-bom/brewery-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brewery-bom/brewery-bom (2).iml" filepath="$PROJECT_DIR$/brewery-bom/brewery-bom (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/brewery-eureka/brewery-eureka.iml" filepath="$PROJECT_DIR$/brewery-eureka/brewery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brewery-gateway/brewery-gateway.iml" filepath="$PROJECT_DIR$/brewery-gateway/brewery-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brewery-inventory-failover/brewery-inventory-failover.iml" filepath="$PROJECT_DIR$/brewery-inventory-failover/brewery-inventory-failover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brewery-inventory-service/brewery-inventory-service.iml" filepath="$PROJECT_DIR$/brewery-inventory-service/brewery-inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brewery-order-service/brewery-order-service.iml" filepath="$PROJECT_DIR$/brewery-order-service/brewery-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brewery-service/brewery-service.iml" filepath="$PROJECT_DIR$/brewery-service/brewery-service.iml" />
+    </modules>
+  </component>
+</project>
